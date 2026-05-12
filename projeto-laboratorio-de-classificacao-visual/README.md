@@ -34,6 +34,8 @@ Uma parte fundamental deste estudo foi a análise do **viés algorítmico**. Dur
 1.  [cite_start]Maior diversidade nos dados de entrada[cite: 20].
 2.  [cite_start]Decisões mais justas e alinhadas com o contexto humano[cite: 20].
 
----
 [Voltar ao início](https://github.com/rickeelme/portfolio-rickeelme-lopes-de-souza)
+---
 *Este projeto faz parte do meu portfólio de estudos em Engenharia de Software e Inteligência Artificial.*
+
+

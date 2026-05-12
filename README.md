@@ -1,21 +1,21 @@
-# [Rickeelme Lopes de Souza]
-> Estudante de [Ciência da Computação]
+# Rickeelme Lopes de Souza
+> Estudante de Ciência da Computação
  
 ---
  
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-profissional@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rickeelme-lopes-66ab3b26b)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rickeelme555@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
  
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [7º] período de [Ciência da computação] na [Unicid]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Desenvolvimento Backend / Front-end/Análise de Dados/Suporte técnico].
+Atualmente cursando o 7º período de Ciência da computação na Unicid. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Desenvolvimento Backend / Front-end/Análise de Dados/Suporte técnico.
  
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
+* **Habilidades Técnicas:** Python, Java, SQL, AWS, Docker,CSS,HTML,PHP.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
+* **Experiência/Projetos Relevantes:** Atuei em Projeto de Estágio pela EcoTech atuando como professor onde me desenvolvi profissionalmente.
  
 ---
  
@@ -36,15 +36,12 @@ Atualmente cursando o [7º] período de [Ciência da computação] na [Unicid]. 
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
- 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **Laboratório de Classificação Visual** | Treinamento de modelo de visão computacional focado na identificação de vieses algorítmicos e análise de impactos sociais. | [Ver Projeto](./projeto-laboratorio-de-classificacao-visual/) |
+| **Engenharia Reversa com IA** | Reconstrução Full-Stack de aplicações a partir da descrição lógica e funcional assistida por IA generativa. | [Ver Projeto](./projeto-laboratorio-de-engenharia-reversa/) |
+| **Desenvolvimento de MVP+** | Evolução de protótipo para produto autoral com integração Firebase, design personalizado e implementação de novos recursos funcionais. | [Ver Projeto](./projeto-do-clone-ao-produto-minimo-viavel-mvp/) |
  
 ---
  

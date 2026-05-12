@@ -46,4 +46,4 @@ O projeto foi construído focando na experiência do usuário e na facilidade de
 Este projeto segue diretrizes de acessibilidade, contando com o suporte do **VLibras** para garantir que a ferramenta seja utilizável por todos, removendo barreiras de comunicação.
 
 ---
-[Voltar ao início](https://github.com/rickeelme555)
+[Voltar ao início]([https://github.com/rickeelme555](https://github.com/rickeelme/portfolio-rickeelme-lopes-de-souza)

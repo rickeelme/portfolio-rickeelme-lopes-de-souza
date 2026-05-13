@@ -10,7 +10,7 @@ Este projeto foi desenvolvido como uma atividade prática para explorar o funcio
 ## 🧪 Experimento Live
 [cite_start]O modelo foi treinado e testado em tempo real via webcam, processando os frames para gerar uma saída probabilística baseada nos padrões aprendidos durante a fase de treinamento[cite: 1, 4, 7].
 
-* [cite_start]**Link do Experimento:** [Acessar Teachable Machine](https://teachablemachine.withgoogle.com/models/DH2AOΥPE/) [cite: 1]
+* [cite_start]**Link do Experimento:** [Acessar Teachable Machine](https://teachablemachine.withgoogle.com/models/zpidkhizq/) [cite: 1]
 * [cite_start]**Classes Identificadas:** `Feliz` e `Triste` [cite: 8, 9]
 
 ## 🛠️ Tecnologias Utilizadas

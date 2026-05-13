@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  
+  /* Neumorphic Tokens */
+  --color-neu-bg: #e0e0e0;
+  --color-neu-light: #ffffff;
+  --color-neu-dark: #bebebe;
+  --color-neu-accent: #ffff00;
+  --color-neu-text: #001f3f;
+}
+
+@layer base {
+  :root {
+    --neu-bg: #e0e0e0;
+    --neu-light: #ffffff;
+    --neu-dark: #bebebe;
+    --neu-text: #001f3f;
+  }
+
+  .dark {
+    --neu-bg: #212121;
+    --neu-light: #2b2b2b;
+    --neu-dark: #171717;
+    --neu-text: #e0e0e0;
+  }
+
+  body {
+    @apply bg-[var(--neu-bg)] text-[var(--neu-text)] font-sans antialiased transition-colors duration-300;
+  }
+}
+
+@layer components {
+  .neu-card {
+    @apply bg-[var(--neu-bg)] transition-all duration-300;
+    border-radius: 50px;
+    box-shadow: 20px 20px 60px var(--neu-dark), 
+               -20px -20px 60px var(--neu-light);
+  }
+
+  .neu-input {
+    @apply bg-[var(--neu-bg)] border-2 border-[var(--neu-text)] px-2 py-1 outline-none transition-all duration-300;
+  }
+
+  .neu-slider {
+    @apply w-full h-2 bg-[var(--neu-text)] rounded-lg appearance-none cursor-pointer transition-all duration-300;
+  }
+
+  .neu-slider::-webkit-slider-thumb {
+    @apply appearance-none w-4 h-4 bg-[var(--neu-text)] border-2 border-[var(--neu-bg)] rounded-full transition-all duration-300;
+    box-shadow: 2px 2px 5px var(--neu-dark);
+  }
+}

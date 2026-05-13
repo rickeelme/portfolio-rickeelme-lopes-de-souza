@@ -1,0 +1,47 @@
+{
+  "entities": {
+    "users": {
+      "title": "User",
+      "description": "User profile information",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string", "description": "Unique identifier for the user" },
+        "email": { "type": "string", "format": "email", "description": "User email address" },
+        "displayName": { "type": "string", "description": "User display name" },
+        "photoURL": { "type": "string", "description": "User profile photo URL" },
+        "createdAt": { "type": "string", "format": "date-time", "description": "When the user account was created" },
+        "lastLogin": { "type": "string", "format": "date-time", "description": "When the user last logged in" }
+      },
+      "required": ["uid", "email"]
+    },
+    "neumorphic_designs": {
+      "title": "Neumorphic Design",
+      "description": "Saved neumorphic design configurations",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "description": "Unique identifier for the design" },
+        "userId": { "type": "string", "description": "Owner of the design" },
+        "name": { "type": "string", "description": "Name of the design" },
+        "color": { "type": "string", "description": "Background color" },
+        "size": { "type": "number", "description": "Size of the element" },
+        "radius": { "type": "number", "description": "Border radius" },
+        "distance": { "type": "number", "description": "Shadow distance" },
+        "intensity": { "type": "number", "description": "Shadow intensity" },
+        "blur": { "type": "number", "description": "Shadow blur" },
+        "shape": { "type": "string", "description": "Shape type (flat, concave, convex, pressed)" },
+        "createdAt": { "type": "string", "format": "date-time", "description": "When the design was saved" }
+      },
+      "required": ["userId", "color", "size", "radius", "distance", "intensity", "blur", "shape"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "users",
+      "description": "User profile documents"
+    },
+    "/users/{userId}/designs/{designId}": {
+      "schema": "neumorphic_designs",
+      "description": "User's saved neumorphic designs"
+    }
+  }
+}

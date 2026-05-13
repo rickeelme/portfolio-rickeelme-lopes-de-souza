@@ -1,4 +1,4 @@
-# 🎨 SiteCSS.io - Gerador de Design Neumórfico (Clonagem Profissional)
+# 🎨 neumorphism.io- Gerador de Design Neumórfico (Clonagem Profissional)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -37,41 +37,4 @@ O objetivo principal foi desconstruir e reconstruir a lógica de cálculo de som
 
 ---
 
-## 🛠️ Como Executar o Projeto
 
-Para rodar este projeto localmente para fins de estudo ou modificação, siga os passos:
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone https://github.com/seu-usuario/sitecss-io.git
-    ```
-
-2.  **Instale as dependências:**
-    ```bash
-    npm install
-    ```
-
-3.  **Inicie o servidor de desenvolvimento:**
-    ```bash
-    npm run dev
-    ```
-
-4.  **Acesse no navegador:** `http://localhost:3000`
-
----
-
-## 📂 Estrutura de Pastas
-
-```text
-src/
-├── components/
-│   └── layout/         # Header e Footer reutilizáveis
-├── App.tsx             # Lógica principal do gerador e motor de sombras
-├── index.css           # Design tokens e configurações Tailwind
-└── main.tsx            # Ponto de entrada da aplicação
-⚖️ Licença
-Este projeto é um clone para fins educacionais e de portfólio. O design original e o conceito pertencem ao criador do neumorphism.io. O código desta implementação está sob a licença MIT.
-Voltar ao topo
-code
-Code
-O arquivo `README.md` foi criado na raiz do seu projeto e está pronto para ser enviado ao GitHub junto com o código!

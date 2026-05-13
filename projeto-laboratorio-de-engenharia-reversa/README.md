@@ -1,49 +1,77 @@
-# 🎨 SiteCSS.io - Gerador de Design Neumórfico
+# 🎨 SiteCSS.io - Gerador de Design Neumórfico (Clonagem Profissional)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
-## 📝 Descrição do Projeto
-O **SiteCSS.io** é uma ferramenta interativa de design voltada para desenvolvedores e designers que desejam criar interfaces baseadas na estética *Neumorphism* (ou Soft UI). O projeto combina uma interface intuitiva com um motor de renderização em tempo real, permitindo a manipulação precisa de sombras, cores e formas para alcançar o efeito de relevo suave característico deste estilo.
+## 📝 Sobre o Projeto
 
-O sistema não apenas gera o código CSS pronto para produção, mas também oferece persistência de dados via **Firebase**, permitindo que usuários autenticados salvem sua biblioteca pessoal de designs e acessem seu histórico de criações de qualquer lugar.
+O **neumorphism.io** é um projeto de **Engenharia Reversa** de alta fidelidade da ferramenta original *neumorphism.io*. Desenvolvido como um desafio técnico de clonagem de UI e lógica de frontend, este projeto replica com precisão a experiência de geração de estilos CSS neumórficos (Soft UI).
+
+O objetivo principal foi desconstruir e reconstruir a lógica de cálculo de sombras, manipulação de cores para gerar contrastes realistas e a interface minimalista que define o estilo Neumórfico.
 
 ---
-![Dashboard principal do SiteCSS.io](https://googleusercontent.com/image_generation_content/0)
-*Figura 1: Dashboard interativo com preview em tempo real e controles de design.*
+
+## ✨ Funcionalidades
+
+- **Preview em Tempo Real:** Visualização instantânea de como o seu componente ficará no navegador.
+- **Controle Total de Sombras:** Ajuste de distância, intensidade, blur e tamanho através de sliders intuitivos.
+- **Seleção de Formas:** Suporte para os 4 estados clássicos: *Flat*, *Concave*, *Convex* e *Pressed (Inset)*.
+- **Seletor de Cores Inteligente:** Sistema de entrada hexadecimal com visualização imediata da paleta.
+- **Exportação Rápida:**
+  - **Copiar:** Botão de cópia direta do código CSS gerado.
+  - **Baixar:** Opção de baixar o arquivo `.css` pronto para anexar ao seu projeto.
+- **Design Responsivo:** Interface otimizada para Desktop e dispositivos móveis.
+
+---
 
 ## 🚀 Tecnologias Utilizadas
-* **Frontend:** React 18 & TypeScript
-* **Estilização:** Tailwind CSS (com suporte nativo a Dark Mode)
-* **Backend (BaaS):** Firebase (Authentication & Cloud Firestore)
-* **Acessibilidade:** Integração com VLibras para tradução em tempo real
-* **Ícones:** Lucide React
-* **Build Tool:** Vite
 
-## 📊 Funcionalidades e Diferenciais
-O projeto foi construído focando na experiência do usuário e na facilidade de exportação de estilos.
-* **Autenticação Google:** Login rápido e seguro para salvar designs na nuvem.
-* **Persistência em Firestore:** Histórico completo de designs salvos com opção de edição e exclusão.
-* **Dark Mode Nativo:** Interface e motor de sombras que se adaptam automaticamente ao tema escolhido (Claro ou Escuro).
-* **Acessibilidade Inclusiva:** Implementação do widget VLibras, garantindo que o conteúdo seja acessível para a comunidade surda.
-* **Paleta de Cores Inteligente:** Sistema de hover no seletor de cores com sugestões otimizadas para neumorfismo.
+*   **Core:** [React 19](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/)
+*   **Estilização:** [Tailwind CSS 4](https://tailwindcss.com/)
+*   **Animações:** [Motion](https://motion.dev/) (para transições suaves entre estados)
+*   **Ícones:** [Lucide React](https://lucide.dev/)
+*   **Build System:** [Vite](https://vitejs.dev/)
 
 ---
-![Comparativos de Tema e Código](https://googleusercontent.com/image_generation_content/1)
-*Figura 2: Demonstração da exportação de código CSS e alternância de temas.*
 
-## 🔧 Como Executar
-1. Clone o repositório.
-2. Configure suas credenciais do Firebase no arquivo `firebase-applet-config.json` (ou `.env`).
-3. Instale as dependências: `npm install`.
-4. Execute o ambiente de desenvolvimento: `npm run dev`.
-5. Para produção: `npm run build && npm run start`.
+## 🛠️ Como Executar o Projeto
 
-## ♿ Acessibilidade
-Este projeto segue diretrizes de acessibilidade, contando com o suporte do **VLibras** para garantir que a ferramenta seja utilizável por todos, removendo barreiras de comunicação.
+Para rodar este projeto localmente para fins de estudo ou modificação, siga os passos:
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone https://github.com/seu-usuario/sitecss-io.git
+    ```
+
+2.  **Instale as dependências:**
+    ```bash
+    npm install
+    ```
+
+3.  **Inicie o servidor de desenvolvimento:**
+    ```bash
+    npm run dev
+    ```
+
+4.  **Acesse no navegador:** `http://localhost:3000`
 
 ---
-[Voltar ao início](https://github.com/rickeelme555)
+
+## 📂 Estrutura de Pastas
+
+```text
+src/
+├── components/
+│   └── layout/         # Header e Footer reutilizáveis
+├── App.tsx             # Lógica principal do gerador e motor de sombras
+├── index.css           # Design tokens e configurações Tailwind
+└── main.tsx            # Ponto de entrada da aplicação
+⚖️ Licença
+Este projeto é um clone para fins educacionais e de portfólio. O design original e o conceito pertencem ao criador do neumorphism.io. O código desta implementação está sob a licença MIT.
+Voltar ao topo
+code
+Code
+O arquivo `README.md` foi criado na raiz do seu projeto e está pronto para ser enviado ao GitHub junto com o código!

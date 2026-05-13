@@ -4,9 +4,9 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:linkedin.com/in/rickeelme-lopes-66ab3b26b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rickeelme-lopes-66ab3b26b)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rickeelme555@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](mailto:file:///C:/Users/rickeelme/Downloads/Rickeelme%20Lopes%20de%20Souza.%20Curr%C3%ADculo%20_20250930_234125_0000%20(1)%20(1).pdf)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](file:///C:/Users/rickeelme/Downloads/Rickeelme%20Lopes%20de%20Souza.%20Curr%C3%ADculo%20_20250930_234125_0000%20(1)%20(1).pdf)
  
 ---
  

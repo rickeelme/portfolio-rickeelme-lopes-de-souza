@@ -10,8 +10,8 @@
 O **SiteCSS.io** é uma ferramenta interativa de design voltada para desenvolvedores e designers que desejam criar interfaces baseadas na estética *Neumorphism* (ou Soft UI). O projeto combina uma interface intuitiva com um motor de renderização em tempo real, permitindo a manipulação precisa de sombras, cores e formas para alcançar o efeito de relevo suave característico deste estilo.
 
 O sistema não apenas gera o código CSS pronto para produção, mas também oferece persistência de dados via **Firebase**, permitindo que usuários autenticados salvem sua biblioteca pessoal de designs e acessem seu histórico de criações de qualquer lugar.
-Acesse o Projeto:https://ai.studio/apps/36ce94ff-6340-476d-a007-72e618991d1f.
 ---
+Acesse o Projeto:https://ai.studio/apps/36ce94ff-6340-476d-a007-72e618991d1f.
 
 ## 🚀 Tecnologias Utilizadas
 * **Frontend:** React 18 & TypeScript

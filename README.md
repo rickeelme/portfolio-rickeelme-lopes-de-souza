@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=0077B5&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UNICID+%F0%9F%92%BB;Python+%C2%B7+Java+%C2%B7+SQL+%C2%B7+AWS+%C2%B7+Docker+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=861d1d&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UNICID+%F0%9F%92%BB;Python+%C2%B7+Java+%C2%B7+SQL+%C2%B7+AWS+%C2%B7+Docker+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </div>
 

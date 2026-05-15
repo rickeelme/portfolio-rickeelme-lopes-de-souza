@@ -10,6 +10,8 @@
 
 O **neumorphism.io** é um projeto de **Engenharia Reversa** de alta fidelidade da ferramenta original *neumorphism.io*. Desenvolvido como um desafio técnico de clonagem de UI e lógica de frontend, este projeto replica com precisão a experiência de geração de estilos CSS neumórficos (Soft UI).
 
+acesse a experiência: https://ai.studio/apps/002f35e7-be15-4e83-b14e-12e52c8f4fa9.
+
 O objetivo principal foi desconstruir e reconstruir a lógica de cálculo de sombras, manipulação de cores para gerar contrastes realistas e a interface minimalista que define o estilo Neumórfico.
 
 ---

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:861d1d,100:00C6FF&height=200&section=header&text=Rickeelme%20Lopes%20de%20Souza&fontSize=35&fontColor=ffffff&fontAlignY=40&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Desenvolvimento%20de%20Software&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:861d1d,100:861d1d&height=200&section=header&text=Rickeelme%20Lopes%20de%20Souza&fontSize=35&fontColor=ffffff&fontAlignY=40&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Desenvolvimento%20de%20Software&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://www.linkedin.com/in/rickeelme-lopes-66ab3b26b/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">

@@ -12,8 +12,6 @@ O **SiteCSS.io** é uma ferramenta interativa de design voltada para desenvolved
 O sistema não apenas gera o código CSS pronto para produção, mas também oferece persistência de dados via **Firebase**, permitindo que usuários autenticados salvem sua biblioteca pessoal de designs e acessem seu histórico de criações de qualquer lugar.
 
 ---
-![Dashboard principal do Neumorphism.io](https://googleusercontent.com/image_generation_content/0)
-*Figura 1: Dashboard interativo com preview em tempo real e controles de design.*
 
 ## 🚀 Tecnologias Utilizadas
 * **Frontend:** React 18 & TypeScript
@@ -32,8 +30,6 @@ O projeto foi construído focando na experiência do usuário e na facilidade de
 * **Paleta de Cores Inteligente:** Sistema de hover no seletor de cores com sugestões otimizadas para neumorfismo.
 
 ---
-![Comparativos de Tema e Código](https://googleusercontent.com/image_generation_content/1)
-*Figura 2: Demonstração da exportação de código CSS e alternância de temas.*
 
 ## 🔧 Como Executar
 1. Clone o repositório.
